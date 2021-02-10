@@ -1,0 +1,3 @@
+Total Execution Time = 00h 00m 15s 665ms
+Total Valid Rows = 201081
+Total Skipped Rows = 81832
